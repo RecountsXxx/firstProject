@@ -4,7 +4,9 @@
 #include <iostream>
 #include <conio.h>
 #include <fstream>
-
+//Åêçàìåíöèîíàÿ ðàáîòà ïî Øèôðó Âèæåíååðà
+//Êàïðèÿí Áîãäàí Êàïðèÿí
+//22.06.2022
 using namespace std;
 string A = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZàáâãäå¸æçèéêëìíîïðñòóôõö÷øùúûüýþÿÀÁÂÃÄÅ¨ÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞß1234567890!@#$%^&*()-_=+|}{:?>,.¹;?<";
 string dencrypt,encrypt;
