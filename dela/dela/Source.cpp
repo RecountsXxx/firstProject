@@ -2,6 +2,9 @@
 #include <string>
 #include <fstream>
 #include <ctime>
+
+//Екзаменционная работа
+//Каприян Богдан Ярославович 22.06.2022
 using namespace std;
 struct Job {
 	string name{};

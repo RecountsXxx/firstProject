@@ -59,7 +59,8 @@ int main()
 	}
 	else
 		cout << "Working currentFile" << endl;
-	getline(current, B);
+		getline(current, B);
+
 	cout << "Введите ключ: ";
 	cin >> C;
 	system("cls");
@@ -68,7 +69,6 @@ int main()
 	int c = C.size();
 	int b = B.size();
 	func(b, c, F, G);
-
 	long int e = 0;
 	system("cls");
 	ofstream encryptFile("encrypt.txt");

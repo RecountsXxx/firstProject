@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Bogdan\Documents\GitHub\firstProject\vijener\vijener\Source.cpp(69,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bogdan\Documents\GitHub\firstProject\vijener\vijener\Source.cpp(70,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bogdan\Documents\GitHub\firstProject\vijener\vijener\Source.cpp(104,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bogdan\Documents\GitHub\firstProject\vijener\vijener\Source.cpp(105,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Bogdan\Documents\GitHub\firstProject\vijener\vijener\Source.cpp(111,21): warning C4267: +=: преобразование из "size_t" в "long"; возможна потеря данных
+  vijener.vcxproj -> C:\Users\Bogdan\Documents\GitHub\firstProject\vijener\x64\Debug\vijener.exe
