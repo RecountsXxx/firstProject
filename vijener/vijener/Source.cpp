@@ -50,7 +50,7 @@ int main()
 	int shifr = 0;
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	setlocale(LC_ALL, "Rus");
+	setlocale(LC_ALL, "ukr");
 	ifstream current("current.txt");
 	if (!current.is_open()) {
 		cout << "Erorr currentFile" << endl;
