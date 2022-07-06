@@ -1,0 +1,16 @@
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone calculator.csprojAssemblyReference.cache
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone_calculator.Form1.resources
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone_calculator.Properties.Resources.resources
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone calculator.csproj.GenerateResource.cache
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone calculator.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone calculator.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\bin\Debug\netcoreapp3.1\phone calculator.exe
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\bin\Debug\netcoreapp3.1\phone calculator.deps.json
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\bin\Debug\netcoreapp3.1\phone calculator.runtimeconfig.json
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\bin\Debug\netcoreapp3.1\phone calculator.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\bin\Debug\netcoreapp3.1\phone calculator.dll
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\bin\Debug\netcoreapp3.1\phone calculator.pdb
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone calculator.dll
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone calculator.pdb
+C:\Users\Bogdan\source\repos\phone calculator\phone calculator\obj\Debug\netcoreapp3.1\phone calculator.genruntimeconfig.cache
